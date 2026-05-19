@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maya Beach | Portfolio 2024-2025
+title: Maya Beach | Portfolio 
 email: mbeach@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! This is my new website :).
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog (must match repository)
 url: "https://mayabeach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  mayabeach
 
 # Build settings
