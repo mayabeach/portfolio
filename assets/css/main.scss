@@ -405,12 +405,12 @@ img {
 .carousel {
   position: relative;
   margin: 1rem 0;
-  max-width: 70%;
+  max-width: 100%;
 }
 
 .carousel-track {
   position: relative;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 16 / 9;
   border-radius: 4px;
   overflow: hidden;
   background: var(--grey-color-light);
