@@ -1,15 +1,15 @@
-title: Your Name
+title: Maya Beach
 tagline: Mechanical Engineering Student
 email: your.email@example.com
-github_username: yourgithub
-linkedin_username: yourlinkedin
+github_username: mayabeach
+linkedin_username: mayabeach
 description: >
-  Portfolio site for a mechanical engineering student — projects, resume, and contact.
+  This a simple site for me to show off personal and professional projects!
 baseurl: "/portfolio" # subpath if not using a custom domain, e.g. "/portfolio"
 url: "https://yourgithub.github.io" # replace with your GitHub Pages URL
 
 # Formspree endpoint — replace with your own form ID after creating a Formspree form
-formspree_endpoint: "https://formspree.io/f/yourFormID"
+formspree_endpoint: "https://formspree.io/f/xyeyqyap"
 
 markdown: kramdown
 permalink: /:title/
