@@ -1,0 +1,36 @@
+title: Your Name
+tagline: Mechanical Engineering Student
+email: your.email@example.com
+github_username: yourgithub
+linkedin_username: yourlinkedin
+description: >
+  Portfolio site for a mechanical engineering student — projects, resume, and contact.
+baseurl: "" # subpath if not using a custom domain, e.g. "/portfolio"
+url: "https://yourgithub.github.io" # replace with your GitHub Pages URL
+
+# Formspree endpoint — replace with your own form ID after creating a Formspree form
+formspree_endpoint: "https://formspree.io/f/yourFormID"
+
+markdown: kramdown
+permalink: /:title/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+plugins:
+  - jekyll-feed
