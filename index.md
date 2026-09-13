@@ -5,18 +5,17 @@ title: Home
 
 <section class="bio">
   <div class="bio-text">
-    <h1>Hi, I'm Your Name.</h1>
+    <h1>Hi, I'm Maya!</h1>
     <p>
-      I'm a mechanical engineering student focused on [design / mechatronics / thermofluids —
-      whatever your focus is]. I like taking projects from a rough sketch to a working
-      prototype, and I've picked up experience with CAD, manufacturing, and testing along
-      the way. This site collects some of the projects I've worked on, both in school and
-      on my own time.
+      I'm a Mechanical Engineering undergrad at Carnegie Mellon
+University graduating in December 2026. I have a minor in Soft Technologies through
+IDeATe ([Integrative Design, Arts, and Technology](https://ideate.cmu.edu/)) and love combining engineering and
+art. I have previously interned at [Symbotic](https://www.symbotic.com/), [Locus Robotics](https://locusrobotics.com/), and [New England Biolabs](neb.com/en-us?srsltid=AfmBOorR5oFalxbSMbVZmRxIt1t3-hlQRyFncUijYmpRitntAC-LiU_o).
+
     </p>
     <p>
-      Outside of coursework, I [a sentence about what you do — clubs, hobbies, research].
-      Take a look at the projects below, or head to the
-      <a href="{{ '/projects/' | relative_url }}">Projects</a> page to see everything.
+      This website contains my professional and personal projects. Take a look at the projects below, or head to the
+      <a href="{{ '/projects/' | relative_url }}">Projects</a> page to see everything. <p>You can also check out my <a href="{{ '/resume/' | relative_url }}">resume</a> or <a href="{{ '/contact/' | relative_url }}">get in touch</a>.</p>
     </p>
   </div>
   <div class="bio-photo">
