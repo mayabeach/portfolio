@@ -6,7 +6,9 @@ title: Home
 
 <section class="bio">
   <div class="bio-text">
-    <h1>Hi, I'm Maya!</h1>
+	<h1 class="wave-text">
+	  <span>H</span><span>i</span><span>,</span> <span>I</span><span>'</span><span>m</span> <span>M</span><span>a</span><span>y</span><span>a</span><span>!</span>
+	</h1>
     <p>
       I'm a Mechanical Engineering undergrad at Carnegie Mellon
       University graduating in December 2026. I have a minor in Soft Technologies through
