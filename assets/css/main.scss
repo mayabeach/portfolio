@@ -64,8 +64,8 @@ h2 { font-size: 1.4rem; margin: 1.2em 0 0.5em; }
 
 @keyframes wave-in {
   0%   { transform: translateY(0); }
-  30%  { transform: translateY(-6px); }
-  60%  { transform: translateY(2px); }
+  30%  { transform: translateY(-8px); }
+  60%  { transform: translateY(3px); }
   100% { transform: translateY(0); }
 }
 
