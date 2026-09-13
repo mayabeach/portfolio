@@ -43,14 +43,14 @@ title: Home
 
 <section class="awards">
   <h2>Awards &amp; press</h2>
-  <div class="awards-grid">
-    <a class="awards-card" href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/quiet-edges-dissolve.html">
-      <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.png' | relative_url }}" alt="Inflatable shell">
-      <span class="awards-caption"> Quiet Edges Dissolve — IDeATe, May 2026</span>
-    </a>
-    <a class="awards-card" href="https://example.com/award-link">
-      <img class="awards-thumb" src="{{ '/assets/images/awards/award-1.jpg' | relative_url }}" alt="Award photo or certificate">
-      <span class="awards-caption">Name of award — Issuing org, Year</span>
-    </a>
+  <div class="awards-list">
+    <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.png' | relative_url }}" alt="">
+      <a href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/quiet-edges-dissolve.html" class="awards-text">Quiet Edges Dissolve — IDeATe, May 2026</a>
+    </div>
+    <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/award-1.jpg' | relative_url }}" alt="">
+      <a href="https://example.com/award-link" class="awards-text">Name of award — Issuing org, Year</a>
+    </div>
   </div>
 </section>
