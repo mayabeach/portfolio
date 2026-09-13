@@ -353,6 +353,11 @@ img {
 /* ==========================================================================
    Individual project page
    ========================================================================== */
+.project-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+}
 
 .project-back {
   font-size: 0.9rem;
@@ -400,6 +405,7 @@ img {
 .carousel {
   position: relative;
   margin: 1rem 0;
+  max-width: 70%;
 }
 
 .carousel-track {

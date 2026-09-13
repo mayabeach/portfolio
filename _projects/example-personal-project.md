@@ -8,6 +8,8 @@ tools:
   - Blender, Rhino, Solidworks, CorelDraw
   - Laser Cutter 
   - Sewing Machine
+created_for:
+  - 53-330 IDeATe: Inflatables
 carousel: true
 images:
   - /assets/images/projects/education-1-photo1.jpg
@@ -16,4 +18,4 @@ images:
 date: 2026-05-01
 ---
 
-![Inline photo caption](/assets/images/projects/internship-1-detail.jpg)
+![Test](/assets/images/projects/shell-thumbnail.jpg)

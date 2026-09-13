@@ -10,6 +10,7 @@ layout: default
     {% if page.date %} · {{ page.date | date: "%B %Y" }}{% endif %}
   </p>
 
+ <div class="project-details">
   {% if page.tools %}
   <div class="project-tools">
     <h2>Tools &amp; skills</h2>
@@ -20,6 +21,18 @@ layout: default
     </ul>
   </div>
   {% endif %}
+
+  {% if page.created_for %}
+  <div class="project-created-for">
+    <h2>Created for</h2>
+    <ul class="tools-list">
+      {% for item in page.created_for %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</div>
 
   {% if page.carousel and page.images %}
     {% include carousel.html images=page.images alt=page.title %}
