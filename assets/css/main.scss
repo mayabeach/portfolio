@@ -545,21 +545,17 @@ img {
    ========================================================================== */
 
 @media (max-width: 700px) {
-  .featured-grid,
-  .gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .bio {
-    flex-direction: column-reverse;
+  .bio-photo {
+    flex: 0 0 auto;
+    max-width: 220px;
+    margin: 0 auto 20px;
   }
 
   .bio-photo img {
-    width: 140px;
-    height: 140px;
+    width: 100%;
+    height: auto;
   }
 }
-
 @media (max-width: 420px) {
   .featured-grid,
   .gallery {
