@@ -45,7 +45,7 @@ title: Home
   <h2>Awards &amp; press</h2>
   <div class="awards-grid">
     <a class="awards-card" href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/quiet-edges-dissolve.html">
-      <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.jpg' | relative_url }}" alt="Inflatable shell">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.png' | relative_url }}" alt="Inflatable shell">
       <span class="awards-caption"> Quiet Edges Dissolve — IDeATe, May 2026</span>
     </a>
     <a class="awards-card" href="https://example.com/award-link">
