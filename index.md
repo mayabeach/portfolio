@@ -3,19 +3,22 @@ layout: default
 title: Home
 ---
 
+
 <section class="bio">
   <div class="bio-text">
     <h1>Hi, I'm Maya!</h1>
     <p>
       I'm a Mechanical Engineering undergrad at Carnegie Mellon
-University graduating in December 2026. I have a minor in Soft Technologies through
-IDeATe ([Integrative Design, Arts, and Technology](https://ideate.cmu.edu/)) and love combining engineering and
-art. I have previously interned at [Symbotic](https://www.symbotic.com/), [Locus Robotics](https://locusrobotics.com/), and [New England Biolabs](neb.com/en-us?srsltid=AfmBOorR5oFalxbSMbVZmRxIt1t3-hlQRyFncUijYmpRitntAC-LiU_o).
-
+      University graduating in December 2026. I have a minor in Soft Technologies through
+      IDeATe (<a href="https://ideate.cmu.edu/">Integrative Design, Arts, and Technology</a>) and love combining engineering and
+      art. I have previously interned at <a href="https://www.symbotic.com/">Symbotic</a>, <a href="https://locusrobotics.com/">Locus Robotics</a>, and <a href="https://www.neb.com/en-us">New England Biolabs</a>.
     </p>
     <p>
       This website contains my professional and personal projects. Take a look at the projects below, or head to the
-      <a href="{{ '/projects/' | relative_url }}">Projects</a> page to see everything. <p>You can also check out my <a href="{{ '/resume/' | relative_url }}">resume</a> or <a href="{{ '/contact/' | relative_url }}">get in touch</a>.</p>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a> page to see everything.
+    </p>
+    <p>
+      You can also check out my <a href="{{ '/resume/' | relative_url }}">resume</a> or <a href="{{ '/contact/' | relative_url }}">get in touch</a>.
     </p>
   </div>
   <div class="bio-photo">
