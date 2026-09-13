@@ -9,7 +9,7 @@ tools:
   - Laser Cutter 
   - Sewing Machine
 created_for:
-  - 53-330 IDeATe: Inflatables
+  - 53-330 IDeATe\: Inflatables
 carousel: true
 images:
   - /assets/images/projects/education-1-photo1.jpg
