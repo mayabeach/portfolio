@@ -40,3 +40,17 @@ title: Home
     {% endfor %}
   </div>
 </section>
+
+<section class="awards">
+  <h2>Awards &amp; press</h2>
+  <div class="awards-grid">
+    <a class="awards-card" href="https://example.com/article-link">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/article-1.jpg' | relative_url }}" alt="Screenshot of the article mentioning Maya">
+      <span class="awards-caption">Title of the article — Publication, Year</span>
+    </a>
+    <a class="awards-card" href="https://example.com/award-link">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/award-1.jpg' | relative_url }}" alt="Award photo or certificate">
+      <span class="awards-caption">Name of award — Issuing org, Year</span>
+    </a>
+  </div>
+</section>
