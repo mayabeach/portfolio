@@ -1,0 +1,16 @@
+<div class="carousel" data-carousel>
+  <div class="carousel-track">
+    {% for img in include.images %}
+    <div class="carousel-slide{% if forloop.first %} is-active{% endif %}">
+      <img src="{{ img | relative_url }}" alt="{{ include.alt }} photo {{ forloop.index }}">
+    </div>
+    {% endfor %}
+  </div>
+  <button class="carousel-prev" aria-label="Previous photo">&#8249;</button>
+  <button class="carousel-next" aria-label="Next photo">&#8250;</button>
+  <div class="carousel-dots">
+    {% for img in include.images %}
+    <button class="carousel-dot{% if forloop.first %} is-active{% endif %}" data-index="{{ forloop.index0 }}" aria-label="Go to photo {{ forloop.index }}"></button>
+    {% endfor %}
+  </div>
+</div>

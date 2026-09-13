@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article class="project">
+  <p class="project-back"><a href="{{ '/projects/' | relative_url }}">&larr; All projects</a></p>
+
+  <h1>{{ page.title }}</h1>
+  <p class="project-meta">
+    <span class="project-category">{{ page.category | capitalize }}</span>
+    {% if page.date %} · {{ page.date | date: "%B %Y" }}{% endif %}
+  </p>
+
+  {% if page.tools %}
+  <div class="project-tools">
+    <h2>Tools &amp; skills</h2>
+    <ul class="tools-list">
+      {% for tool in page.tools %}
+      <li>{{ tool }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if page.carousel and page.images %}
+    {% include carousel.html images=page.images alt=page.title %}
+  {% elsif page.thumbnail %}
+    <img class="project-hero" src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+
+  <div class="project-body">
+    {{ content }}
+  </div>
+
+  {% if page.carousel and page.images %}
+  <script src="{{ '/assets/js/carousel.js' | relative_url }}"></script>
+  {% endif %}
+
+  {% if page.video %}
+  <div class="project-video">
+    <h2>Video</h2>
+    <div class="video-wrapper">
+      <iframe src="{{ page.video }}" title="{{ page.title }} video" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  {% endif %}
+</article>
