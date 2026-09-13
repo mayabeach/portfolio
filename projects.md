@@ -6,6 +6,8 @@ permalink: /projects/
 
 <h1>Projects</h1>
 
+<p class="resume-updated">Last updated: {{ page.updated | default: "September 12th, 2026" }}</p>
+
 <div class="filter-tabs" role="tablist">
   <button class="filter-tab is-active" data-filter="all" role="tab" aria-selected="true">All</button>
   <button class="filter-tab" data-filter="internship" role="tab" aria-selected="false">Internship</button>
