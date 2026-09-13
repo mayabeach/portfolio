@@ -17,5 +17,8 @@ images:
   - /assets/images/projects/education-1-photo3.jpg
 date: 2026-05-01
 ---
+Text text
 
 ![Test](/assets/images/projects/shell-thumbnail.jpg)
+
+more text
