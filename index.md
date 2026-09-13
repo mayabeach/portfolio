@@ -43,14 +43,31 @@ title: Home
 
 <section class="awards">
   <h2>Awards &amp; press</h2>
+   <div class="awards-list">
+    <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/award.jpg' | relative_url }}" alt="">
+      <a href="https://www.meche.engineering.cmu.edu/" class="awards-text"> Emerging Scholar in Mechanics and Design — CMU MechE, September 2026</a>
+    </div>
   <div class="awards-list">
     <div class="awards-item">
       <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.png' | relative_url }}" alt="">
       <a href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/quiet-edges-dissolve.html" class="awards-text">Quiet Edges Dissolve — IDeATe, May 2026</a>
     </div>
     <div class="awards-item">
-      <img class="awards-thumb" src="{{ '/assets/images/awards/award-1.jpg' | relative_url }}" alt="">
-      <a href="https://example.com/award-link" class="awards-text">Name of award — Issuing org, Year</a>
+      <img class="awards-thumb" src="{{ '/assets/images/awards/hihs.png' | relative_url }}" alt="">
+      <a href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/meet-me-@-spring-26.html" class="awards-text">Meet Me Spring 2026 — IDeATe, May 2026</a>
+    </div>
+    <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/shellfloor.png' | relative_url }}" alt="">
+      <a href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/spring-2026-project-roundup.html" class="awards-text">Spring 2026 Final Project Roundup — IDeATe, April 2026</a>
+    </div>
+     	<div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/walle.jpg' | relative_url }}" alt="">
+      <a href="https://www.meche.engineering.cmu.edu/news/2025/04/09-ideate.html" class="awards-text">A creative home on campus (Reposted Interview w/ Maya) — CMU MechE, April 2025</a>
+    </div>
+      <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/walle.jpg' | relative_url }}" alt="">
+      <a href="https://ideate.cmu.edu/news-and-announcements/2025/april/maya-beach-feature.html" class="awards-text">A creative home on campus (Original Interview w/ Maya) — IDeATe, April 2025</a>
     </div>
   </div>
 </section>
