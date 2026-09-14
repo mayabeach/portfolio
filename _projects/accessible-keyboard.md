@@ -3,7 +3,7 @@ title: "Accessible Keyboard and Mouse Interface"
 category: education
 order: 2
 featured: true
-thumbnail: /assets/images/projects/education-1-thumb.jpg
+thumbnail: /assets/images/projects/accessiblethumbnail.JPEG
 tools:
   - Patterning
   - Hand Sewing, Sewing Machine
