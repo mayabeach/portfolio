@@ -387,9 +387,10 @@ img {
 }
 
 .project-body img {
-  max-width: 500px;
-  display: block;
-  margin: 1rem auto;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 1rem 0;
 }
 
 .project-video .video-wrapper {
