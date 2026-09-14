@@ -14,7 +14,9 @@ created_for:
 
 carousel: false
 date: 2025-12-01
-video: https://youtube.com/shorts/uQ0x8os_8Kk
+video: https://youtube.com/embed/uQ0x8os_8Kk
+video_vertical: true
+
 ---
 
 <img src="{{ '/assets/images/projects/rollupchair.png' | relative_url }}" alt="Roll Up Chair Specs">

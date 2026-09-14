@@ -12,11 +12,9 @@ created_for:
   - "24370 Mechanical Design: Methods and Applications"
   - Accessibility Design Challenge
 
-carousel: true
-images:
-  - /assets/images/projects/education-1-photo1.jpg
-  - /assets/images/projects/education-1-photo2.jpg
-  - /assets/images/projects/education-1-photo3.jpg
-video: https://youtube.com/shorts/nJYrNuapt4Y
+carousel: false
+video: https://www.youtube.com/embed/nJYrNuapt4Y
+video_vertical: true
+
 date: 2025-12-01
 ---
