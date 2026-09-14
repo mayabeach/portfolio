@@ -434,11 +434,14 @@ img {
 }
 
 .carousel-slide img {
-  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   height: 100%;
-  object-fit: contain;
+  width: auto;
+  max-width: none;
 }
-
 .carousel-prev,
 .carousel-next {
   position: absolute;
