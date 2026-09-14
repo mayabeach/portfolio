@@ -14,5 +14,6 @@ protein purification. I learned how to assemble, pack, and validate chromotograp
 were focused around creating columns for production and maintaning AKTAs at the company. This included addressing error messages and alarms, replacing worn out
 parts, unclogging lines, and finding and repairing leaks. I also learned how to perform a number of assays used to assess the quality of the protein purification step. (SDS Page, Titer, FEA).
 
-In my freetime, I created a schematic of the Akta Pure to solidify my understanding of the system and create a guide for employee training.  
-![](/assets/images/projects/neb-aktadiagram.png)
+In my freetime, I created a flow path schematic of the Akta Pure to solidify my understanding of the system and create a guide for employee training.  
+
+<img src="{{ '/assets/images/projects/neb-aktadiagram.png' | relative_url }}" alt="Akta Pure Schematic">

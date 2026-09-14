@@ -24,11 +24,12 @@ date: 2026-05-01
 {% include carousel.html images=page.imagesfinal alt="Exhibit Photos" %}
 
 text text
-![](/assets/images/projects/shellinspiration.png)
-![](/assets/images/projects/shellproto.png)
-![](/assets/images/projects/shellredesign.png)
-![](/assets/images/projects/shelltemplate.png)
-![](/assets/images/projects/shellinflate1.png)
-![](/assets/images/projects/shellinflate2.png)
+
+<img src="{{ '/assets/images/projects/shellinspiration.png' | relative_url }}" alt="Shell inspiration">
+<img src="{{ '/assets/images/projects/shellproto.png' | relative_url }}" alt="Shell prototype">
+<img src="{{ '/assets/images/projects/shellredesign.png' | relative_url }}" alt="Shell redesign">
+<img src="{{ '/assets/images/projects/shelltemplate.png' | relative_url }}" alt="Shell template">
+<img src="{{ '/assets/images/projects/shellinflate1.png' | relative_url }}" alt="Shell inflation test 1">
+<img src="{{ '/assets/images/projects/shellinflate2.png' | relative_url }}" alt="Shell inflation test 2">
 
 more text
