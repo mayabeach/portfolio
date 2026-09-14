@@ -34,6 +34,7 @@ shell shape.
 Initially, we wanted to create a dome with a rough edge and a true spiral shape. Early pattern designs revealed that a spiral shape was infeasible - 
 it required several complex, unique, patterns and it was too difficult and tedious to create at scale.
 
+### Reworking Our Design
 <img src="{{ '/assets/images/projects/shellredesign.png' | relative_url }}" alt="Shell redesign">
 We reworked our design and opted for a tilted, shell in which the spiral section of the shell was achived through tiered spheres 
 and the dome was simplified to exclude the rough texture. Tassles would be added to create the illusion of a wall reaching down to the floor.
@@ -43,6 +44,7 @@ This new design only contained 7 unique pattern pieces that repeated 12 times. I
 All pattern pieces were modified to fit the laser cutter, and some, like the baffles, were split smaller for efficient material usage. Sewing this was a 
 beast! We ended up using around 90 yards of ripstop nylon for our project.
 
+### Test Inflations
 <img src="{{ '/assets/images/projects/shellinflate1.png' | relative_url }}" alt="Shell inflation test 1">
 This was our first test inflation for the top portion of the inflatable. The top portion of the inflatable was relatively simple in comparison to the 
 double walled dome.
