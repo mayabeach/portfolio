@@ -62,6 +62,10 @@ title: Home
       <img class="awards-thumb" src="{{ '/assets/images/awards/shellfloor.png' | relative_url }}" alt="">
       <a href="https://ideate.cmu.edu/news-and-announcements/2026/05_may/spring-2026-project-roundup.html" class="awards-text">Spring 2026 Final Project Roundup — IDeATe, April 2026</a>
     </div>
+      <div class="awards-item">
+      <img class="awards-thumb" src="{{ '/assets/images/awards/picb.JPEG' | relative_url }}" alt="">
+      <a href="https://www.facebook.com/share/p/1FCuXsNCx1/" class="awards-text">78th Annual Pennsylvania Intercollegiate Band — Kiltie, March 2026</a>
+    </div>
     <div class="awards-item">
       <img class="awards-thumb" src="{{ '/assets/images/awards/walle.JPG' | relative_url }}" alt="">
       <a href="https://www.meche.engineering.cmu.edu/news/2025/04/09-ideate.html" class="awards-text">A creative home on campus (Reposted Interview w/ Maya) — CMU MechE, April 2025</a>
