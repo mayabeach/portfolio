@@ -225,6 +225,7 @@ img {
   background-position: center;
   background-color: var(--grey-color-light);
   border-radius: 4px;
+  overflow: hidden;
 }
 
 .featured-overlay {
@@ -238,10 +239,16 @@ img {
 }
 
 .featured-caption {
-  display: block;
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
 }
+
 .awards {
   margin-top: 2.5rem;
 }
