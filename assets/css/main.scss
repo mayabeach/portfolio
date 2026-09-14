@@ -386,6 +386,12 @@ img {
   margin-top: 1rem;
 }
 
+.project-body img {
+  max-width: 500px;
+  display: block;
+  margin: 1rem auto;
+}
+
 .project-video .video-wrapper {
   position: relative;
   padding-top: 56.25%;

@@ -34,7 +34,7 @@ layout: default
   {% endif %}
 </div>
 
-  {% if page.carousel and page.images %}
+  {% if page.carousel %}
     {% include carousel.html images=page.images alt=page.title %}
   {% elsif page.thumbnail %}
     <img class="project-hero" src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}">
