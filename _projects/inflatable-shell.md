@@ -11,10 +11,14 @@ tools:
 created_for:
   - "53-330 IDeATe: Inflatables"
 carousel: true
-images:
-  - /assets/images/projects/shell-thumbnail.jpg
-  - /assets/images/projects/education-1-photo2.jpg
-  - /assets/images/projects/education-1-photo3.jpg
+imagesfinal:
+  - /assets/images/projects/shell1.jpeg
+  - /assets/images/projects/shell2.jpeg
+  - /assets/images/projects/shell3.jpeg
+  - /assets/images/projects/shell4.jpeg
+  - /assets/images/projects/shell5.JPEG
+  - /assets/images/projects/shell6.jpeg
+
 date: 2026-05-01
 ---
 Text text
@@ -22,3 +26,4 @@ Text text
 ![Test](/assets/images/projects/shell-thumbnail.jpg)
 
 more text
+{% include carousel.html images=page.imagesfinal alt="Exhibit Photos" %}
