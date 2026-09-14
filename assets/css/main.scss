@@ -395,12 +395,12 @@ img {
 
 .project-video .video-wrapper {
   position: relative;
-  padding-top: 56.25%;
+  aspect-ratio: 16 / 9;
   margin-top: 0.5rem;
 }
 
 .project-video .video-wrapper.vertical {
-  padding-top: 177.78%; /* 9:16 */
+  aspect-ratio: 9 / 16;
   max-width: 360px;
   margin-left: auto;
   margin-right: auto;
