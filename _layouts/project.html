@@ -34,7 +34,7 @@ layout: default
   {% endif %}
 </div>
 
-  {% if page.carousel %}
+  {% if page.carousel and page.images %}
     {% include carousel.html images=page.images alt=page.title %}
   {% endif %}
 
