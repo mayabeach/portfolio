@@ -55,7 +55,8 @@ about the pieces reversed so that seams would remain hidden.
 
 <img src="{{ '/assets/images/projects/shellinflate2.jpg' | relative_url }}" alt="Shell inflation test 2">
 This is our second test inflation for the exhibition. The baffles, shown in the middle top image, provide structure
-and create the lines seen on the exterior.
+and create the lines seen on the exterior. Last minute, I added a clear panel at the top of the dome, shown in the middle bottom image. 
+This allowed viewers to gaze up through the inside of the single walled portion.
 
 Scroll back up to the top to see pictures of the finished piece! This is one of the most difficult and most rewarding projects I have ever completed, and it 
 forced me to prioritize manufacturability, develop and lead my group through the sewing process, and think spatially. 
