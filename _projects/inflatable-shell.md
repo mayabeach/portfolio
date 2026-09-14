@@ -21,9 +21,14 @@ imagesfinal:
 
 date: 2026-05-01
 ---
-Text text
+{% include carousel.html images=page.imagesfinal alt="Exhibit Photos" %}
 
-![Test](/assets/images/projects/shell-thumbnail.jpg)
+text text
+![](/assets/images/projects/shellinspiration.png)
+![](/assets/images/projects/shellproto.png)
+![](/assets/images/projects/shellredesign.png)
+![](/assets/images/projects/shelltemplate.png)
+![](/assets/images/projects/shellinflate1.png)
+![](/assets/images/projects/shellinflate2.png)
 
 more text
-{% include carousel.html images=page.imagesfinal alt="Exhibit Photos" %}
