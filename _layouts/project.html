@@ -50,17 +50,16 @@ layout: default
   <div class="project-video">
     <h2>Video</h2>
     <div class="video-wrapper{% if page.video_vertical %} vertical{% endif %}">
-      <iframe src="{{ page.video }}" title="{{ page.title }} video" frameborder="0" allowfullscreen></iframe>
+	<iframe 
+	  src="{{ page.video }}"
+	  title="{{ page.title }} video"
+	  frameborder="0"
+	  allowfullscreen
+	  {% if page.video_vertical %}width="315" height="560"{% else %}width="560" height="315"{% endif %}
+	></iframe>
     </div>
   </div>
   {% endif %}
 </article>
 
-<iframe
-  src="{{ page.video }}"
-  title="{{ page.title }} video"
-  frameborder="0"
-  allowfullscreen
-  {% if page.video_vertical %}width="315" height="560"{% else %}width="560" height="315"{% endif %}
-></iframe>
 
