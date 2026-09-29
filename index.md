@@ -47,8 +47,8 @@ title: Home
   <h2>Awards &amp; press</h2>
   <div class="awards-list">
     <div class="awards-item">
-      <img class="awards-thumb" src="{{ '/assets/images/awards/award.jpg' | relative_url }}" alt="">
-      <a href="https://www.meche.engineering.cmu.edu/" class="awards-text">Emerging Scholar in Mechanics and Design — CMU MechE, September 2026</a>
+      <img class="awards-thumb" src="{{ '/assets/images/awards/award.JPEG' | relative_url }}" alt="">
+      <a href="https://www.instagram.com/p/Dd1zLjVGZKi/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==" class="awards-text">Emerging Scholar in Mechanics and Design — CMU MechE, September 2026</a>
     </div>
     <div class="awards-item">
       <img class="awards-thumb" src="{{ '/assets/images/awards/shellgroup.png' | relative_url }}" alt="">
