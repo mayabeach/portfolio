@@ -27,7 +27,7 @@ keyboard functions and as mouse buttons. It
 senses orientation of the palm, bend of the wrist,
 and bend of the fingers, and can be calibrated to a
 specific user.
-<img src="{{ '/assets/images/projects/glove.jpg' | relative_url }}" alt="Glove">
+<img src="{{ '/assets/images/projects/glove.JPG' | relative_url }}" alt="Glove">
 
 I selected materials and adapted an approach described by the open-source collective KOBAKANT (https://www.kobakant.at/DIY/?p=20). Creating 
 working sensors required an iterative approach and experimentation, since the materials we used had different qualities and resistiveness. 
@@ -41,13 +41,13 @@ consistent sensing. Combining a stretchy spandex base, with a stretch/bend sensi
 The joystick is one of two modular components of the system. It has easily
 swapable hand or foot controlled attachments. Its use is to act primarily as a mouse for cursor and scroll control.
 
-<img src="{{ '/assets/images/projects/joystick.jpg' | relative_url }}" alt="Joystick">
+<img src="{{ '/assets/images/projects/joystick.JPG' | relative_url }}" alt="Joystick">
 
 The controls were designed to be accessible for a wide variety of individuals, but can be re-assigned for
 specific user needs. Sensitivities can also be adjusted, and so can intent-based features such as cursor
 velocity versus joystick position, as well as noise and stray-hand-movement filtering.
 
-<img src="{{ '/assets/images/projects/commands.jpg' | relative_url }}" alt="Accessible Keyboard Commands">
+<img src="{{ '/assets/images/projects/commands.JPG' | relative_url }}" alt="Accessible Keyboard Commands">
 
 For our demo, we created a series of actions to demonstrate the capabilities of the system. 
 1. Launch Chrome
