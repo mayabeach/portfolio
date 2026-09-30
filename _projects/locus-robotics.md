@@ -31,7 +31,6 @@ to engineering, customer service, and company leadership.
 
 Outside of my main projects, I assisted with material review board, NCMR processes, and gained a lot of hands-on exposure evaluating bot performance. 
 I learned how to test and troubleshoot returned bots, PCBAs, LiDARs, and internal bot computers. I also performed PFMEAs for several assembly processes,
-shadowing manufacturing. Working in quality gave me a great understanding of how warehouse robotics run and how a product comes to be
- - our team interacted with Customer Service, Product Management, Manufacturing, Engineering, Testing, and Data Science. I also learned how to communicate
+shadowing manufacturing. Working in quality gave me a great understanding of how warehouse robotics run and how a product gets to the market. Our team interacted with Customer Service, Product Management, Manufacturing, Engineering, Testing, and Data Science. I also learned how to communicate
  technical information to non-technical audiences. 
 
