@@ -2,7 +2,7 @@
 title: "New England Biolabs"
 category: internship
 order: 1
-featured: true
+featured: false
 thumbnail: /assets/images/projects/nebthumbnail.jpg
 tools:
 carousel: false

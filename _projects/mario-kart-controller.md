@@ -2,7 +2,7 @@
 title: "5 Person Mario Kart Controller"
 category: education
 order: 2
-featured: true
+featured: false
 thumbnail: /assets/images/projects/hihs.png
 tools:
   - Electronics Packaging

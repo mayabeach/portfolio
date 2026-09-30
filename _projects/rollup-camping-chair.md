@@ -2,7 +2,7 @@
 title: "Roll-Up Camping Chair"
 category: education
 order: 2
-featured: true
+featured: false
 thumbnail: /assets/images/projects/rollupchairthumbnail.JPG
 tools:
   - Solidworks
