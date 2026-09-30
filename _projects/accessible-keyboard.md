@@ -29,7 +29,7 @@ and bend of the fingers, and can be calibrated to a
 specific user.
 <img src="{{ '/assets/images/projects/glove.JPG' | relative_url }}" alt="Glove">
 
-I selected materials and adapted an approach described by the open-source collective KOBAKANT (https://www.kobakant.at/DIY/?p=20). Creating 
+I selected materials and adapted an approach described by the open-source collective <a href="https://www.kobakant.at/DIY/?p=20">KOBAKANT</a>. Creating 
 working sensors required an iterative approach and experimentation, since the materials we used had different qualities and resistiveness. 
 I patterned and constructed a glove to fit a range of adult hand sizes, then interfaced the electronic components and with the glove. When integrating the bend
 sensors with the gloves, we found that the placement of sensors on the back of the hand resulted in more inconsistent sensing between users of different hand sizes.
