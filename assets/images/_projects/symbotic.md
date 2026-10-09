@@ -12,7 +12,7 @@ At Symbotic, I worked as a Mechanical Engineering intern with working on a new r
 <a href="https://www.symbotic.com/solutions/breakpack/?gad_source=1&gad_campaignid=24120220708&gbraid=0AAAABEDo5y2NC12FS3CT0gocuv9t-uy6N&gclid=Cj0KCQjw5vLVBhCiARIsAD56SFIXT4UdEwVdngObvW1I--roZrkIZhvQn2gLX8r5utjP9oHgOIJ6ZvEaAucFEALw_wcB">MiniBot</a>,
 and is designed to handle individual SKUs for partial case and small quantity fufillment for distribution centers. 
 
-Throughout the summer, I supported a wide range of tasks to support a mid-summer design release. I rebuilt CAD models, updated BOMs, cable assemblies, and generated lots of 
+Throughout the summer, I supported a wide range of tasks to support a mid-summer design release. I rebuilt CAD models, updated BOMs, able assemblies, and generated lots of 
 component part numbers gaining extensive experience with Teamcenter and Solidworks PDM systems.
 
 The main projects I worked on were:
@@ -24,6 +24,8 @@ designed the test to mimic previous warehouse pack retention tests at the compan
 need for RTV.
 3. Designing a die cast part to replace a machined component, resulting in an estimated cost reduction of ~$15 per part (80%).
 4. Travel to a customer site to perform mechanical and PCBA reworks on 60+ bots over 4 days
+
+<img src="{{ '/assets/images/projects/silicone.jpg' | relative_url }}" alt="Silicone Prototypes">
 
 It was really interesting working in warehouse robotics for a second summer, but targeting a different niche (distribution centers vs customer fufillment)
 and completely different style of robot. Symbotic's robots are designed to run as quickly as possible, as accurately as possible, with as little human intervention as possible. 
