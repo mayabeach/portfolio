@@ -25,5 +25,5 @@ need for RTV.
 3. Designing a die cast part to replace a machined component, resulting in an estimated cost reduction of ~$15 per part (80%).
 4. Travel to a customer site to perform mechanical and PCBA reworks on 60+ bots over 4 days
 
-It was really interesting working in warehouse robotics for a second summer, but targeting a different niche (distribution centers vs customer fufillment)
+It was really interesting working in warehouse robotics for a second summer, but targeting a different customer (distribution centers vs customer fufillment)
 and completely different style of robot. Symbotic's robots are designed to run as quickly as possible, as accurately as possible, with as little human intervention as possible. 
